@@ -1,8 +1,6 @@
-class File1
+
+public static void main(String[] args)
 {
-static void disp()
-{
-int a=5;
-int b=10;
-System.out.println(a+b);
+disp();
+}
 }
